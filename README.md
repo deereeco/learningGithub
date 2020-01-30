@@ -1,2 +1,0 @@
-# learningGithub
-Teaching myself Github
